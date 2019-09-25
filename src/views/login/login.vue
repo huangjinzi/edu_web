@@ -72,4 +72,6 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped src= '@/styles/css/bootstrap.min.css'></style>
 <style scoped src= '@/styles/css/login.css'></style>
+<style scoped src= '@/styles/css/font.css'></style>
+<style scoped src= '@/styles/css/a3common.css'></style>
 
